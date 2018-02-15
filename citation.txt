@@ -1,0 +1,27 @@
+CITATION
+
+-------------------------------------------
+
+LOGIN SYSTEM
+
+https://www.youtube.com/watch?v=xb8aad4MRx8
+
+TIMECODES
+
+02:43 	Setup of the database
+10:24 	Creating the visuals using HTML & CSS
+36:25 	Connecting the database
+40:46 	Creating the sign up PHP script
+1:07:09 Creating the login/logout PHP script
+
+Note: I created my own styling for this and did not use the CSS Reset that was used in the video.
+(So all HTML and CSS elements are MINE).
+
+-------------------------------------------
+
+CONCATENATING ECHO SYNTAX IN PHP
+
+https://stackoverflow.com/questions/8109322/concatenating-echo-syntax-in-php
+
+(I used this to create the greeting message upon logging in to the system.)
+

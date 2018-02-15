@@ -1,0 +1,135 @@
+/*CSS Document*/
+
+.hidden
+{
+	display: none;
+}
+
+body
+{
+	background-color: #eee;
+}
+
+button
+{
+	width: 100%;
+	background-color: #0000ff;
+	height: 39px;
+	color: white;
+}
+
+button:hover
+{
+	background-color: #0000cc;
+}
+
+li
+{
+	list-style-type: none;
+}
+
+section
+{
+	padding: 3em;
+}
+
+.loginButton
+{
+	margin-bottom: 1em;
+}
+
+#logoDiv
+{
+	display: none;
+}
+
+.logOut
+{
+	padding-bottom: 1em;
+}
+
+.nav-login
+{
+	background-color: #242424;
+	padding-top: 1em;
+}
+
+.row
+{
+	max-width: 100%;
+}
+
+.signUp
+{
+	padding-top: .25em;
+	padding-bottom: .25em;
+	background-color: blue;
+	height: 2.1em;
+}
+
+.signUp a
+{
+	color: white;
+	font-size: .75em;
+	margin-bottom: .25em;
+}
+
+.signUpForm button
+{
+	width: 60%;
+	margin-left: 20%;
+	margin-right: 20%;
+	cursor: pointer;
+}
+
+.signUpTitle
+{
+	text-align: center;
+}
+
+.welcomeMsg
+{
+	color: white;
+	font-size: 13px;
+	text-align: right;
+}
+
+@media screen and (min-width: 40em)
+{
+
+#logoDiv
+{
+	display: block;
+}
+
+.logoutNav
+{
+	background-color: #242424;
+}
+
+.nav-login
+{
+	background-color: #242424;
+}
+
+.signUp
+{
+	height: 1.7em;
+}
+
+.signUp a
+{
+	color: white;
+	font-size: .75em;
+	float: right;
+}
+
+.signUpForm button
+{
+	width: 40%;
+	margin-left: 30%;
+	margin-right: 30%;
+	margin-top: 1em;
+}
+
+}
